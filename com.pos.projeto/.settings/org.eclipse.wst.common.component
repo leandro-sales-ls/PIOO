@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="com.pos.projeto">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Domain"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Web"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Infra"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/Shared"/>
+        <property name="context-root" value="com.pos.projeto"/>
+        <property name="java-output-path" value="/com.pos.projeto/build/classes"/>
+    </wb-module>
+</project-modules>
