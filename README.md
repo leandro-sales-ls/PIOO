@@ -1,6 +1,8 @@
 
 # Pós graduação em Engenharia de software
 ## Disciplina de Projeto e Implementação de Orientação a Objetos.
+### Aluno: Leandro Dos Santos Sales
+
  ### Aplicativo desenvolvido
  Sistema de publicidade web, fazendo a função de criar, editar, excluir e listar 
  ### Técnologias 
